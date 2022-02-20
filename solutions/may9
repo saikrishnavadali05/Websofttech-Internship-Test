@@ -1,0 +1,38 @@
+
+
+
+
+	9th may 2020
+	
+	started my work at 11:00am
+
+	12:00pm spoke to mentor regarding the server address and GET-POST methods, work to be done. 
+
+	
+1:13pm - break.
+
+2:00pm - back to work.
+
+	debugging the code written yesterday
+	making slight modifications to the code (optimizing it)
+ 
+	6. https://docs.python.org/3/howto/urllib2.html
+
+	understanding how to make GET and POST requests using python
+	working with the postman tool
+	code for GET and POST method based requests is written in python 
+	tried connecting to server many ways but console is showing many tracebacks. 
+
+till 6:30pm ----------------------------------------------------- worked for 6 hours
+
+	references : 
+
+	1. https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3
+
+			How To Use Web APIs in Python 3
+
+	2. discussed about the mail containing the server email addresses with debnath.
+	3. https://www.geeksforgeeks.org/get-post-requests-using-python/
+ 	4. https://www.youtube.com/watch?v=qVTAB8Z2VmA -- what is RestAPI from telusko 
+	5. https://www.youtube.com/watch?v=tb8gHvYlCFs -- Corey Schafer tutorial on http requests
+	
